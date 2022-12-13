@@ -1,0 +1,18 @@
+*Links to study Angular
+
+https://angular.io/guide/file-structure
+
+https://spring.io/guides/gs/rest-service-cors/#:~:text=This%20%40CrossOrigin%20annotation%20enables%20cross,of%2030%20minutes%20is%20used.
+
+*Lambda Expression
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+
+*JUnit
+Uncle Bob Three Rules 
+
+[Monday 15:40] Jaynam Sanghvi
+•You are not allowed to write any production code unless it is to make a failing unit test pass.
+•You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
+•You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
+
